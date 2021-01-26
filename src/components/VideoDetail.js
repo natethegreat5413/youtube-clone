@@ -3,7 +3,7 @@ import Loader from './Loader';
 
 const VideoDetail = ({ video }) => {
 	if (!video) {
-		return <Loader />;
+		return <h1 className="loader">Loading . . . </h1>;
 	}
 
 	const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
