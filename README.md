@@ -10,7 +10,7 @@ You probably haven't met a single person alive who hasn't either heard of or bee
 - Google Fonts
 - Youtube API
 
-## Challenges
+## Challenges 🤦‍♂️
 
 This was a fun project to take on but also had to do quite a bit of research because I wasn't too familiar with video components.  Researching the Youtube API and reading the documentation helped me to figure out the general idea of how I would be able to access the API the way I needed to.
 
